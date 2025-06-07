@@ -1,6 +1,6 @@
 # Books-record-
 Books Record with Api 
-# 📚 ReadBuddy Flutter CRUD App
+# BooksRecord Flutter CRUD App
 
 This is a Flutter-based CRUD application for managing books. It follows the **Clean Architecture** principles and uses **BLoC** for state management, along with **Dio** for API communication. Users can perform all CRUD operations (Create, Read, Update, Delete) on books.
 

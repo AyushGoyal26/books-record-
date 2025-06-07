@@ -21,5 +21,15 @@ This is a Flutter-based CRUD application for managing books. It follows the **Cl
 ## 🚀 Setup Instructions
 
 create a flutter project with name booksrecord 
+
 replace the content of lib folder with main.dart,core , features 
+
 replace the pubsec yaml file 
+
+
+
+## 📸 Screenshots
+
+| Home Screen | Add Book | Edit book|
+|-------------|----------------|----------------|
+| ![Home](appscreenshots/1.jpg) | ![Add](appscreenshots/2.jpg) | ![Edit](appscreenshots/3.jpg) |

@@ -6,19 +6,17 @@ This is a Flutter-based CRUD application for managing books. It follows the **Cl
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - List all books
 - Add a new book
 - Update existing book details
 - Delete a book
-- Error handling and graceful UI feedback
 - Clean folder structure with separation of concerns
-- Optional: Login before performing actions (if token-based auth is enabled)
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 create a flutter project with name booksrecord 
 
@@ -28,7 +26,7 @@ replace the pubsec yaml file
 
 
 
-## 📸 Screenshots
+##  Screenshots
 
 | Home Screen | Add Book | Edit book|
 |-------------|----------------|----------------|
